@@ -1,0 +1,13 @@
+c:\users\fchve\onedrive\documentos\visual studio 2015\Projects\mantenimientocliente\mantenimientocliente\bin\Debug\mantenimientocliente.exe.config
+c:\users\fchve\onedrive\documentos\visual studio 2015\Projects\mantenimientocliente\mantenimientocliente\bin\Debug\mantenimientocliente.exe
+c:\users\fchve\onedrive\documentos\visual studio 2015\Projects\mantenimientocliente\mantenimientocliente\bin\Debug\mantenimientocliente.pdb
+c:\users\fchve\onedrive\documentos\visual studio 2015\Projects\mantenimientocliente\mantenimientocliente\bin\Debug\CapaNegocio.dll
+c:\users\fchve\onedrive\documentos\visual studio 2015\Projects\mantenimientocliente\mantenimientocliente\bin\Debug\CapaDatos.dll
+c:\users\fchve\onedrive\documentos\visual studio 2015\Projects\mantenimientocliente\mantenimientocliente\bin\Debug\CapaNegocio.pdb
+c:\users\fchve\onedrive\documentos\visual studio 2015\Projects\mantenimientocliente\mantenimientocliente\bin\Debug\CapaDatos.pdb
+c:\users\fchve\onedrive\documentos\visual studio 2015\Projects\mantenimientocliente\mantenimientocliente\obj\Debug\mantenimientocliente.csprojResolveAssemblyReference.cache
+c:\users\fchve\onedrive\documentos\visual studio 2015\Projects\mantenimientocliente\mantenimientocliente\obj\Debug\mantenimientocliente.Form1.resources
+c:\users\fchve\onedrive\documentos\visual studio 2015\Projects\mantenimientocliente\mantenimientocliente\obj\Debug\mantenimientocliente.Properties.Resources.resources
+c:\users\fchve\onedrive\documentos\visual studio 2015\Projects\mantenimientocliente\mantenimientocliente\obj\Debug\mantenimientocliente.csproj.GenerateResource.Cache
+c:\users\fchve\onedrive\documentos\visual studio 2015\Projects\mantenimientocliente\mantenimientocliente\obj\Debug\mantenimientocliente.exe
+c:\users\fchve\onedrive\documentos\visual studio 2015\Projects\mantenimientocliente\mantenimientocliente\obj\Debug\mantenimientocliente.pdb
