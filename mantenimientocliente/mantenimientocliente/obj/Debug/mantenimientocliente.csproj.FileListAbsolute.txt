@@ -11,3 +11,16 @@ c:\users\fchve\onedrive\documentos\visual studio 2015\Projects\mantenimientoclie
 c:\users\fchve\onedrive\documentos\visual studio 2015\Projects\mantenimientocliente\mantenimientocliente\obj\Debug\mantenimientocliente.csproj.GenerateResource.Cache
 c:\users\fchve\onedrive\documentos\visual studio 2015\Projects\mantenimientocliente\mantenimientocliente\obj\Debug\mantenimientocliente.exe
 c:\users\fchve\onedrive\documentos\visual studio 2015\Projects\mantenimientocliente\mantenimientocliente\obj\Debug\mantenimientocliente.pdb
+C:\Users\fchve\Desktop\repositorio\mantenimientocliente\mantenimientocliente\bin\Debug\mantenimientocliente.exe.config
+C:\Users\fchve\Desktop\repositorio\mantenimientocliente\mantenimientocliente\obj\Debug\mantenimientocliente.exe
+C:\Users\fchve\Desktop\repositorio\mantenimientocliente\mantenimientocliente\obj\Debug\mantenimientocliente.pdb
+C:\Users\fchve\Desktop\repositorio\mantenimientocliente\mantenimientocliente\obj\Debug\mantenimientocliente.csprojResolveAssemblyReference.cache
+C:\Users\fchve\Desktop\repositorio\mantenimientocliente\mantenimientocliente\obj\Debug\mantenimientocliente.Form1.resources
+C:\Users\fchve\Desktop\repositorio\mantenimientocliente\mantenimientocliente\obj\Debug\mantenimientocliente.Properties.Resources.resources
+C:\Users\fchve\Desktop\repositorio\mantenimientocliente\mantenimientocliente\obj\Debug\mantenimientocliente.csproj.GenerateResource.Cache
+C:\Users\fchve\Desktop\repositorio\mantenimientocliente\mantenimientocliente\bin\Debug\mantenimientocliente.exe
+C:\Users\fchve\Desktop\repositorio\mantenimientocliente\mantenimientocliente\bin\Debug\mantenimientocliente.pdb
+C:\Users\fchve\Desktop\repositorio\mantenimientocliente\mantenimientocliente\bin\Debug\CapaNegocio.dll
+C:\Users\fchve\Desktop\repositorio\mantenimientocliente\mantenimientocliente\bin\Debug\CapaDatos.dll
+C:\Users\fchve\Desktop\repositorio\mantenimientocliente\mantenimientocliente\bin\Debug\CapaNegocio.pdb
+C:\Users\fchve\Desktop\repositorio\mantenimientocliente\mantenimientocliente\bin\Debug\CapaDatos.pdb

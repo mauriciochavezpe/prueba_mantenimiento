@@ -37,16 +37,14 @@ namespace mantenimientocliente
         }
      private void agregardatos()
         {
-            if (txtid.Text == string.Empty)
+            if (txtnom.Text != string.Empty)
 
             { Class1.insertar(txtnom.Text, txtap.Text, txtdoc.Text.Trim(), txttelf.Text.Trim(), txtcorreo.Text);
                 mostrardatos();
             }
             else
             {
-                Class1.editar(Convert.ToInt32(txtid.Text), txtnom.Text, txtap.Text, txtdoc.Text, txttelf.Text, txtcorreo.Text);
-
-                mostrardatos();
+                MessageBox.Show("ingrese datos");
             }
         }
         private void BTAGREGAR_Click(object sender, EventArgs e)
@@ -66,15 +64,34 @@ namespace mantenimientocliente
 
         private void BTELIMINAR_Click(object sender, EventArgs e)
         {
-            Class1.eliminar(int.Parse(txtid.Text));
-            mostrardatos();
-        }
+            try
+            {
+                Class1.eliminar(int.Parse(txtid.Text));
+                mostrardatos();
+
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show("selecione ID  que desea eliminar ; " + ex.Message);
+            }
+            }
 
         private void BTMODIFICAR_Click(object sender, EventArgs e)  
         {
-                                   
-            agregardatos();
-                    
+            try
+            {
+                Class1.editar(Convert.ToInt32(txtid.Text), txtnom.Text, txtap.Text, txtdoc.Text, txttelf.Text, txtcorreo.Text);
+                mostrardatos();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("No se edito nada " +ex.Message);
+            }
+        }
+
+        private void BTCANCELAR_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }

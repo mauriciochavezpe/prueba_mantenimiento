@@ -194,6 +194,7 @@
             this.BTCANCELAR.TabIndex = 16;
             this.BTCANCELAR.Text = "CANCELAR";
             this.BTCANCELAR.UseVisualStyleBackColor = true;
+            this.BTCANCELAR.Click += new System.EventHandler(this.BTCANCELAR_Click);
             // 
             // Form1
             // 
