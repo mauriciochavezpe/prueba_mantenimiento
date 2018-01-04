@@ -50,6 +50,7 @@ namespace mantenimientocliente
         private void BTAGREGAR_Click(object sender, EventArgs e)
         {
             agregardatos();
+            limpieza();
         }
 
         private void dataGridView1_DoubleClick(object sender, EventArgs e)
@@ -74,6 +75,8 @@ namespace mantenimientocliente
             {
                 MessageBox.Show("selecione ID  que desea eliminar ; " + ex.Message);
             }
+            limpieza();
+
             }
 
         private void BTMODIFICAR_Click(object sender, EventArgs e)  
@@ -87,11 +90,23 @@ namespace mantenimientocliente
             {
                 MessageBox.Show("No se edito nada " +ex.Message);
             }
+            limpieza();
         }
 
         private void BTCANCELAR_Click(object sender, EventArgs e)
         {
             Close();
+        }
+
+        private void limpieza()
+        {
+            txtid.Text = "";
+            txtnom.Text = "";
+            txtap.Text = "";
+            txtdoc.Text = "";
+            txttelf.Text = "";
+            txtcorreo.Text = "";
+            txtnom.Focus();
         }
     }
 }
